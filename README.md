@@ -1,8 +1,9 @@
 # Competition_files
 Sequence classification competition sample codes
 
-Recall=TP/(TP+FN)=TP/P
-
-Precision=TP/(TP+FP)
-
-F1=2TP/(2TP+FN+FP)=2⋅Precision⋅Recall/(Precision+Recall)
+- Toxic pre-trained word-embedding : 
+<br>
+  - [FastText crawl 300d 2M](https://www.kaggle.com/yekenot/fasttext-crawl-300d-2m)
+  - [glove.840B.300d](https://nlp.stanford.edu/projects/glove/)
+  - [glove.twitter.27B](https://nlp.stanford.edu/projects/glove/)
+<br>
